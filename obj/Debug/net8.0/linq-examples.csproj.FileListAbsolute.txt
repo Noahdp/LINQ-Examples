@@ -1,0 +1,14 @@
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/bin/Debug/net8.0/linq-examples
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/bin/Debug/net8.0/linq-examples.deps.json
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/bin/Debug/net8.0/linq-examples.runtimeconfig.json
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/bin/Debug/net8.0/linq-examples.dll
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/bin/Debug/net8.0/linq-examples.pdb
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/obj/Debug/net8.0/linq-examples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/obj/Debug/net8.0/linq-examples.AssemblyInfoInputs.cache
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/obj/Debug/net8.0/linq-examples.AssemblyInfo.cs
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/obj/Debug/net8.0/linq-examples.csproj.CoreCompileInputs.cache
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/obj/Debug/net8.0/linq-examples.dll
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/obj/Debug/net8.0/refint/linq-examples.dll
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/obj/Debug/net8.0/linq-examples.pdb
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/obj/Debug/net8.0/linq-examples.genruntimeconfig.cache
+/Users/noahpate/Documents/GitHub/Examples/LINQ Examples/obj/Debug/net8.0/ref/linq-examples.dll
